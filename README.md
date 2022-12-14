@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection Using Neural Network Auto Encoders
 
 
-**Research Paper Link: **
+**Research Paper Link:**
 
 https://drive.google.com/file/d/1FAH4wFSwVLOjtsyAimk2GhPCyw7q437Y/view?usp=share_link
 
