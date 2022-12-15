@@ -18,5 +18,5 @@ https://youtu.be/Ifh8jAIKS6Y
 
 **Slideshare PPT Link:**
 
-https://docs.google.com/presentation/d/16IzSpr3uW3x3ObMly0hSu2pDX0OQSwQMacbu19r-q18/edit?usp=share_link
+https://www.slideshare.net/SravaniRaparla/shortstorywriting-255pptx
 
