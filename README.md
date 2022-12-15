@@ -19,4 +19,3 @@ https://youtu.be/Ifh8jAIKS6Y
 **Slideshare PPT Link:**
 
 https://www.slideshare.net/SravaniRaparla/shortstorywriting-255pptx
-
